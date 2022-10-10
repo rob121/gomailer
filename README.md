@@ -1,0 +1,2 @@
+# gomailer
+Ergonomic Mail Sender
